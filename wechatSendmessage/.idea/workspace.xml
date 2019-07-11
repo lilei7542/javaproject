@@ -1,7 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c13ca60-b5c7-4094-bd78-1fe230122364" name="Default Changelist" comment="" />
+    <list default="true" id="9c13ca60-b5c7-4094-bd78-1fe230122364" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../roller/src/httppost4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/com/lilei/a1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/com/lilei/a2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httpget4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httpget4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/weather3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/yui.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/yui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/a1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/a2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/httpget4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httpget1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/httppost1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/httppost3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/httppost5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/httppost6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/simplesqlstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/simplesqlstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../roller/src/weather3.java" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +101,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -95,7 +122,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -164,16 +190,17 @@
       <workItem from="1553240599095" duration="5000" />
       <workItem from="1553241091725" duration="26000" />
       <workItem from="1553245914588" duration="1000" />
+      <workItem from="1559790913589" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42137000" />
+    <option name="totallyTimeSpent" value="42161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="23" width="1400" height="838" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32326952" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32768777" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

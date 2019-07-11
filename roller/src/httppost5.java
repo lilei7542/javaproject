@@ -1,51 +1,42 @@
-import org.apache.commons.httpclient.Header;
+import org.apache.commons.httpclient.Cookie;
 import org.apache.commons.httpclient.HttpClient;
-import org.apache.commons.httpclient.HttpStatus;
-import org.apache.commons.httpclient.NameValuePair;
+import org.apache.commons.httpclient.cookie.CookiePolicy;
+import org.apache.commons.httpclient.methods.ByteArrayRequestEntity;
 import org.apache.commons.httpclient.methods.PostMethod;
-
-import java.io.ByteArrayOutputStream;
-import java.io.InputStream;
-import java.net.URLDecoder;
+import org.apache.commons.httpclient.methods.RequestEntity;
 
 public class httppost5 {
-    public static String PostMethodTest() throws Exception{
-        System.out.println("开始");
-        String URI = "http://api.map.baidu.com/telematics/v3/weather";
+    public static void main(String [] args ) throws Exception{
+//        String demo2="location=西安&output=json&ak=YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F";
+//        String demo2="{\"location\":\"西安\"，\"output\":\"json\",\"ak\":,\"YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F\"}";
+//        post("http://api.map.baidu.com/telematics/v3/weather",demo2);
+        post("http://www.baidu.com","");
+    }
+    public  static String post (String url,String params) throws Exception{
+        try {
+            HttpClient httpClient = new HttpClient();
 
-        HttpClient client = new HttpClient();
-        PostMethod method = new PostMethod(URI);
-        try{
+            PostMethod method = new PostMethod(url);
+            RequestEntity requestEntity = new ByteArrayRequestEntity(params.getBytes("UTF-8"));
+            method.setRequestEntity(requestEntity);
 
-            method.addRequestHeader(new Header("Content-Type", "application/json;charset=utf-8") );
-
-            //          method.addRequestHeader("Content-Type", "application/x-www-form-urlencoded;charset=utf-8");
-
-            method.addParameter(new NameValuePair("location", "西安"));
-            method.addParameter(new NameValuePair("output", "json"));
-            method.addParameter(new NameValuePair("ak", "YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F"));
-
-            int result = client.executeMethod(method);
-            if (result == HttpStatus.SC_OK) {
-                InputStream in = method.getResponseBodyAsStream();
-                ByteArrayOutputStream baos = new ByteArrayOutputStream();
-                byte[] buffer = new byte[1024];
-                int len = 0;
-                while ((len = in.read(buffer)) != -1) {
-                    baos.write(buffer, 0, len);
-                }
-                return URLDecoder.decode(baos.toString(), "UTF-8");
-            } else {
-                throw new Exception("HTTP ERROR Status: " + method.getStatusCode() + ":" + method.getStatusText());
+            httpClient.getParams().setCookiePolicy(CookiePolicy.BROWSER_COMPATIBILITY);
+//            httpClient.getParams().setCookiePolicy(CookiePolicy.DEFAULT);
+            Cookie[] cookies = httpClient.getState().getCookies();
+            StringBuffer tmpcookies = new StringBuffer();
+            for (Cookie c : cookies) {
+                tmpcookies.append(c.toString() + ";");
             }
-        }finally {
-            method.releaseConnection();
+            method.setRequestHeader("cookie",tmpcookies.toString());
+
+
+            httpClient.executeMethod(method);
+            String body = method.getResponseBodyAsString();
+            System.out.println(body);
+
+        }catch (Exception e){
+            e.printStackTrace();
         }
-
+        return null;
     }
-
-    public static void main (String [] args) throws Exception{
-        PostMethodTest();
-    }
-
 }

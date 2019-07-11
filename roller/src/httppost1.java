@@ -12,17 +12,19 @@ import java.io.InputStream;
 
 public class httppost1 {
     public static void main(String [] args ){
-/*        JSONObject a1 = new JSONObject();
-        a1.put("location","西安");
-        a1.put("output","json");
-        a1.put("ak","YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F");
-        String a2 =a1.toString();*/
+/*        JSONObject demo2 = new JSONObject();
+        demo2.put("location","西安");
+        demo2.put("output","json");
+        demo2.put("ak","YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F");
+        String demo1 =demo2.toString();*/
 
-//        String a2 = "{\"location\":\"西安\"，\"output\":\"json\",\"ak\":,\"YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F\"}";
-        String a2 = "location=西安&output=json&ak=YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F";
+//        String demo1 = "{\"location\":\"西安\"，\"output\":\"json\",\"ak\":,\"YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F\"}";
+//        String demo1 = "location=西安&output=json&ak=YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F";
+        String a2 = "";
 
         try {
-            sendpost(a2, "http://api.map.baidu.com/telematics/v3/weather");
+//            sendpost(demo1, "http://api.map.baidu.com/telematics/v3/weather");
+            sendpost(a2, "http://www.baidu.com");
         } catch (Exception e){
             e.printStackTrace();
         }
@@ -67,12 +69,11 @@ public class httppost1 {
 //        RequestEntity requestentity = new InputStreamRequestEntity(inputstream,requestbytes.length);
         postmethod.setRequestEntity(requestentity);
         httpclient.executeMethod(postmethod);
-//        InputStream soapresponsestream = postmethod.getResponseBodyAsStream();
-        byte[] a50 = postmethod.getResponseBody();
-        String a60 = new String(a50);
-        System.out.println(a60);
+        InputStream soapresponsestream = postmethod.getResponseBodyAsStream();
+//        byte[] a50 = postmethod.getResponseBody();
+//        String a60 = new String(a50);
+//        System.out.println(a60);
 
-/*
         try{
 //            byte [] datas = null;
 //            datas = istos (soapresponsestream);
@@ -86,7 +87,6 @@ public class httppost1 {
         } catch (Exception e){
             e.printStackTrace();
         }
-*/
 
 
         return null;

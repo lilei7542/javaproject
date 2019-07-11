@@ -5,8 +5,8 @@ import org.apache.commons.httpclient.methods.StringRequestEntity;
 
 public class httppost3 {
     public static void main (String [] args ) throws Exception {
-        String url="http://api.map.baidu.com/telematics/v3/weather";
-//        String url="http://www.baidu.com";
+//        String url="http://api.map.baidu.com/telematics/v3/weather";
+        String url="http://www.baidu.com";
 //        String requestStr="{\"location\":\"西安\"，\"output\":\"json\",\"ak\":,\"YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F\"}";
 //        String requestStr="location=西安&output=json&ak=YGtqUyHOKe5xtaDzi2pmMZVEMdDNlG8F";
         String requestStr="";

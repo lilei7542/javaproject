@@ -1,6 +1,6 @@
 public class simplesqlstring{
     public static void main(String [] args){
-        //String a1="abc";
+        //String demo2="abc";
         String a1="abc";
         String b1="hello'"+a1+"'";
         String b2="hello"+a1;

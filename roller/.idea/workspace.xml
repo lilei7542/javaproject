@@ -1,7 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="roller" />
+    </artifacts-to-build>
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="8f0fb551-f8db-4f6b-ad23-c662ff4c93c2" name="Default Changelist" comment="" />
+    <list default="true" id="8f0fb551-f8db-4f6b-ad23-c662ff4c93c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/httppost4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/META-INF/roller.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/com/lilei/a1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/com/lilei/a2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/demo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/getrandom.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/hello.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/httpget4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/httpget4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/httppost1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/httppost1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/httppost3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/httppost3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/httppost5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/httppost5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/httppost6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/learnfunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/lottery.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/staff1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/weather3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/roller/yui.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/roller/yui.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/a2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/getrandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/getrandom1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/httpget4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httpget1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/httppost1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httppost1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/httppost3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httppost3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/httppost5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/httppost5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/httppost6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/learnfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/getrandom2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lottery.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/simplesqlstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/simplesqlstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/staff1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/weather3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wechatSendmessage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wechatSendmessage/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,76 +52,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/src/1">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="195">
-                    <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/roller$just_do_it_.ic" NAME="just do it! Coverage Results" MODIFIED="1560420284315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/httppost1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="631">
-              <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/httppost3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="117" selection-start-line="9" selection-end-line="9" selection-end-column="117" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/httppost5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/httppost6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="87" lean-forward="true" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -86,6 +64,19 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>[</find>
+      <find>]</find>
+      <find>j</find>
+      <find>number</find>
+      <find>data</find>
+      <find>Node&lt;T&gt;</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>ListNode</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -98,26 +89,54 @@
         <option value="$PROJECT_DIR$/src/port2.java" />
         <option value="$PROJECT_DIR$/src/port3.java" />
         <option value="$PROJECT_DIR$/src/weather1.java" />
-        <option value="$PROJECT_DIR$/src/1" />
         <option value="$PROJECT_DIR$/src/weather3.java" />
         <option value="$PROJECT_DIR$/src/map1.java" />
         <option value="$PROJECT_DIR$/src/map2.java" />
         <option value="$PROJECT_DIR$/src/weather2.java" />
         <option value="$PROJECT_DIR$/src/httppost2.java" />
-        <option value="$PROJECT_DIR$/src/httppost4.java" />
-        <option value="$PROJECT_DIR$/src/httpget4.java" />
-        <option value="$PROJECT_DIR$/src/httppost5.java" />
-        <option value="$PROJECT_DIR$/src/httppost1.java" />
         <option value="$PROJECT_DIR$/src/httppost3.java" />
+        <option value="$PROJECT_DIR$/src/httppost1.java" />
+        <option value="$PROJECT_DIR$/src/httppost4.java" />
+        <option value="$PROJECT_DIR$/src/httppost5.java" />
+        <option value="$PROJECT_DIR$/src/1" />
+        <option value="$PROJECT_DIR$/src/dsfaa.java" />
+        <option value="$PROJECT_DIR$/src/dsfaa" />
+        <option value="$PROJECT_DIR$/src/httpget2.java" />
+        <option value="$PROJECT_DIR$/src/httpget3.java" />
         <option value="$PROJECT_DIR$/src/httppost6.java" />
+        <option value="$PROJECT_DIR$/src/httpget4.java" />
+        <option value="$PROJECT_DIR$/src/httpget5.java" />
+        <option value="$PROJECT_DIR$/src/fileprocess3.java" />
+        <option value="$PROJECT_DIR$/src/fileprocess2.java" />
+        <option value="$PROJECT_DIR$/src/hello.java" />
+        <option value="$PROJECT_DIR$/src/passwddictcreate.java" />
+        <option value="$PROJECT_DIR$/src/fileprocess1.java" />
+        <option value="$PROJECT_DIR$/src/a4.java" />
+        <option value="$PROJECT_DIR$/src/a5.java" />
+        <option value="$PROJECT_DIR$/src/a3.java" />
+        <option value="$PROJECT_DIR$/src/demo1.java" />
+        <option value="$PROJECT_DIR$/src/a1.java" />
+        <option value="$PROJECT_DIR$/src/demo2.java" />
+        <option value="$PROJECT_DIR$/src/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/leetcode01.java" />
+        <option value="$PROJECT_DIR$/src/leetcode02.java" />
+        <option value="$PROJECT_DIR$/src/SingleLinkedLists.java" />
+        <option value="$PROJECT_DIR$/src/demo3.java" />
+        <option value="$PROJECT_DIR$/src/learnfunction.java" />
+        <option value="$PROJECT_DIR$/src/getrandom.java" />
+        <option value="$PROJECT_DIR$/src/testnode.java" />
+        <option value="$PROJECT_DIR$/src/Node.java" />
+        <option value="$PROJECT_DIR$/src/LinkList.java" />
+        <option value="$PROJECT_DIR$/src/testLinkList.java" />
+        <option value="$PROJECT_DIR$/src/Solution.java" />
+        <option value="$PROJECT_DIR$/src/testSolution.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1521" />
-    <option name="y" value="80" />
-    <option name="width" value="1400" />
-    <option name="height" value="838" />
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="840" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -126,7 +145,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,26 +157,24 @@
               <item name="roller" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="roller" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554114531872" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560421325193" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -177,41 +193,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.just do it! 6">
-    <configuration name="just do it! 3" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="httppost3" />
-      <module name="roller" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="just do it! 5" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="httppost5" />
-      <module name="roller" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="just do it! 6" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="httppost6" />
-      <module name="roller" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="just do it!" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="httppost1" />
+      <option name="MAIN_CLASS_NAME" value="testSolution" />
       <module name="roller" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.just do it!" />
-      <item itemvalue="Application.just do it! 3" />
-      <item itemvalue="Application.just do it! 5" />
-      <item itemvalue="Application.just do it! 6" />
-    </list>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -234,11 +223,77 @@
       <workItem from="1553914510548" duration="373000" />
       <workItem from="1553936734743" duration="2501000" />
       <workItem from="1554089220783" duration="16357000" />
+      <workItem from="1554184594857" duration="2952000" />
+      <workItem from="1554254862440" duration="5812000" />
+      <workItem from="1554271697288" duration="1408000" />
+      <workItem from="1554279078972" duration="5577000" />
+      <workItem from="1554286792457" duration="213000" />
+      <workItem from="1554287147146" duration="24000" />
+      <workItem from="1554340852497" duration="1054000" />
+      <workItem from="1554704516182" duration="373000" />
+      <workItem from="1554705026280" duration="63000" />
+      <workItem from="1554705188277" duration="817000" />
+      <workItem from="1554773720753" duration="18000" />
+      <workItem from="1554773740906" duration="646000" />
+      <workItem from="1555381842485" duration="10967000" />
+      <workItem from="1555464198296" duration="11810000" />
+      <workItem from="1555896563468" duration="15000" />
+      <workItem from="1555897049537" duration="16000" />
+      <workItem from="1555897177890" duration="6910000" />
+      <workItem from="1555911132393" duration="8147000" />
+      <workItem from="1556001928309" duration="2061000" />
+      <workItem from="1556084557662" duration="441000" />
+      <workItem from="1556085224272" duration="62000" />
+      <workItem from="1556085635981" duration="63000" />
+      <workItem from="1556172603504" duration="1021000" />
+      <workItem from="1556415847242" duration="6180000" />
+      <workItem from="1556435131838" duration="3766000" />
+      <workItem from="1556503335594" duration="669000" />
+      <workItem from="1557216016885" duration="1609000" />
+      <workItem from="1557728515953" duration="456000" />
+      <workItem from="1558074557799" duration="609000" />
+      <workItem from="1558075269732" duration="595000" />
+      <workItem from="1559007275415" duration="12772000" />
+      <workItem from="1559094267997" duration="601000" />
+      <workItem from="1559096874708" duration="3300000" />
+      <workItem from="1559100331208" duration="4229000" />
+      <workItem from="1559111430501" duration="5140000" />
+      <workItem from="1559180631879" duration="799000" />
+      <workItem from="1559181479486" duration="2060000" />
+      <workItem from="1559265605000" duration="2291000" />
+      <workItem from="1559280908161" duration="10678000" />
+      <workItem from="1559364340066" duration="160000" />
+      <workItem from="1559411201561" duration="1088000" />
+      <workItem from="1559525590975" duration="7131000" />
+      <workItem from="1559545835921" duration="2182000" />
+      <workItem from="1559612324792" duration="2974000" />
+      <workItem from="1559790620986" duration="20000" />
+      <workItem from="1559790649702" duration="35000" />
+      <workItem from="1559790727397" duration="21000" />
+      <workItem from="1559790947315" duration="442000" />
+      <workItem from="1559791414537" duration="41000" />
+      <workItem from="1559791473067" duration="1172000" />
+      <workItem from="1559799849154" duration="6120000" />
+      <workItem from="1559810702157" duration="3000" />
+      <workItem from="1559810727481" duration="17000" />
+      <workItem from="1560218752026" duration="6739000" />
+      <workItem from="1560238028711" duration="1077000" />
+      <workItem from="1560385897463" duration="24687000" />
+      <workItem from="1560474467962" duration="3073000" />
+      <workItem from="1560734526476" duration="1087000" />
+      <workItem from="1560757329480" duration="570000" />
+      <workItem from="1560758135423" duration="48000" />
+      <workItem from="1560758186607" duration="1000" />
+      <workItem from="1560758230438" duration="1121000" />
+      <workItem from="1560764426656" duration="13000" />
+      <workItem from="1560820934263" duration="4658000" />
+      <workItem from="1560827405209" duration="752000" />
+      <workItem from="1560910923246" duration="51000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79756000" />
+    <option name="totallyTimeSpent" value="261263000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -250,10 +305,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1521" y="80" width="1400" height="838" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26067746" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2911302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -261,18 +315,17 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.24664879" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.3297587" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39839572" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="5" weight="0.3297587" />
+      <window_info anchor="bottom" id="Docker" order="6" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.27941176" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -282,105 +335,166 @@
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Database" order="8" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3297568" />
+      <window_info anchor="right" id="Run" order="10" weight="0.2739628" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21173105" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24664879" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3297587" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" visible="true" weight="0.28150135" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/demo.java">
+    <entry file="file://$PROJECT_DIR$/src/1" />
+    <entry file="file://$PROJECT_DIR$/src/weather3.java" />
+    <entry file="file://$PROJECT_DIR$/src/dsfaa" />
+    <entry file="jar://$PROJECT_DIR$/../package/Json/json-lib-2.2.2-jdk15.jar!/net/sf/json/JSONObject.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+        <state relative-caret-position="351">
+          <caret line="1894" selection-start-line="1894" selection-end-line="1894" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/port1.java">
+    <entry file="file://$PROJECT_DIR$/src/httppost6.java" />
+    <entry file="file://$PROJECT_DIR$/src/httpget5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/port3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="30" lean-forward="true" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+        <state relative-caret-position="473">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#194#195#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-            <element signature="e#264#265#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../package/Json/json-lib-2.2.2-jdk15.jar!/net/sf/json/JSONArray.class">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/io/FileInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270">
-          <caret line="82" column="37" selection-start-line="82" selection-start-column="37" selection-end-line="82" selection-end-column="37" />
+        <state relative-caret-position="179">
+          <caret line="194" selection-start-line="194" selection-end-line="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httppost3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httppost4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httppost5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" column="38" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/map2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httppost2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="42" column="33" selection-start-line="42" selection-start-column="33" selection-end-line="42" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/a4.java" />
+    <entry file="file://$PROJECT_DIR$/src/a5.java" />
+    <entry file="file://$PROJECT_DIR$/src/a3.java" />
+    <entry file="file://$PROJECT_DIR$/src/passwddictcreate.java" />
+    <entry file="file://$PROJECT_DIR$/src/SingleLinkedLists.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode02.java" />
+    <entry file="file://$PROJECT_DIR$/src/leetcode01.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/simplesqlstring.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sqlget.java">
+    <entry file="file://$PROJECT_DIR$/src/fileprocess1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="394">
+          <caret line="54" column="19" selection-start-line="54" selection-start-column="19" selection-end-line="54" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staff.java">
+    <entry file="file://$PROJECT_DIR$/src/fileprocess2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
+        <state relative-caret-position="225">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/staff1.java">
+    <entry file="file://$PROJECT_DIR$/src/getallnumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="13" selection-start-column="13" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/lottery.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/port2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="10" selection-start-column="10" selection-end-column="10" />
-          <folding>
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#259#260#0" expanded="true" />
-            <element signature="e#297#298#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/learnfunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leapyear.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="-158">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -391,16 +505,134 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a2.java">
+    <entry file="file://$PROJECT_DIR$/src/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httpget1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httpget2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="59">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httpget3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="22" selection-start-line="22" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httpget4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/httppost1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="56" column="19" selection-start-line="56" selection-start-column="19" selection-end-line="56" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leapyear.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-214">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getrandom2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#473#474#0" expanded="true" />
+            <element signature="e#499#500#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/lottery.java" />
+    <entry file="file://$PROJECT_DIR$/src/staff1.java" />
+    <entry file="file://$PROJECT_DIR$/src/demo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/getrandom1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/nineandnine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sqlget.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#119#120#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/weather1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
+        <state relative-caret-position="13">
           <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -410,133 +642,54 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/getrandom.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/map1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#133#134#0" expanded="true" />
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#308#324#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../package/commons-httpclient-3.1.jar!/org/apache/commons/httpclient/HttpMethodBase.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/weather3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/weather2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        <state relative-caret-position="615">
+          <caret line="43" column="41" selection-start-line="43" selection-start-column="41" selection-end-line="43" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/a1.java">
+    <entry file="file://$PROJECT_DIR$/src/testnode.java" />
+    <entry file="file://$PROJECT_DIR$/src/testLinkList.java" />
+    <entry file="file://$PROJECT_DIR$/src/LinkList.java" />
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_191.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state relative-caret-position="-18">
+          <caret line="432" selection-start-line="432" selection-end-line="432" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/1">
+    <entry file="file://$PROJECT_DIR$/src/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/hello.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="28" column="1" lean-forward="true" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/httppost2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="372">
+          <caret line="165" column="44" selection-start-line="165" selection-start-column="44" selection-end-line="165" selection-end-column="44" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="class#ListNode#0;class#Solution#0" />
+            <element signature="method#reverseList#0;class#Solution#0" />
+            <element signature="method#printList#0;class#Solution#0" />
+            <element signature="method#getlength#0;class#Solution#0" />
+            <element signature="method#f3#0;class#Solution#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/httpget4.java">
+    <entry file="file://$PROJECT_DIR$/src/testSolution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="41" lean-forward="true" selection-start-line="27" selection-start-column="41" selection-end-line="27" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="220">
+          <caret line="30" column="14" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/httppost1.java">
+    <entry file="file://$PROJECT_DIR$/src/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="631">
-          <caret line="52" column="36" lean-forward="true" selection-start-line="52" selection-start-column="36" selection-end-line="52" selection-end-column="36" />
+        <state relative-caret-position="101">
+          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
           <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/httppost5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="66" lean-forward="true" selection-start-line="29" selection-start-column="66" selection-end-line="29" selection-end-column="66" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/httppost3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="117" selection-start-line="9" selection-end-line="9" selection-end-column="117" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/httppost6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="87" lean-forward="true" selection-start-line="21" selection-start-column="87" selection-end-line="21" selection-end-column="87" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#91#92#0" expanded="true" />
+            <element signature="e#121#122#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -546,11 +699,20 @@
     <states>
       <state key="ArtifactsStructureConfigurable.UI">
         <settings>
-          <artifact-editor />
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>roller</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.5" />
               </list>
             </option>
           </splitter-proportions>
