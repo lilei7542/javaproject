@@ -2,43 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="98782f98-5275-4b5f-a525-e1edd2ecd930" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../roller/src/httppost4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../QRCodeSoft/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/META-INF/roller.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/com/lilei/a1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/com/lilei/a2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/getrandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/hello.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httpget4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httpget4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/httppost5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/httppost6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/learnfunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/lottery.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/staff1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/weather3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/out/production/roller/yui.class" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/out/production/roller/yui.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/a1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/a2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/getrandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/getrandom1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/httpget4.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httpget1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/httppost1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/httppost3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/httppost5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/httppost5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/httppost6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/learnfunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/getrandom2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/lottery.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/simplesqlstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/../roller/src/simplesqlstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/staff1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../roller/src/weather3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../wechatSendmessage/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../wechatSendmessage/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PasswdDitCreate" beforeDir="false" afterPath="$PROJECT_DIR$/../PasswdDitCreate" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -47,8 +12,21 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LeetCode$just_do_it_.ic" NAME="just do it! Coverage Results" MODIFIED="1563330649334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Zconvert.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,10 +52,11 @@
         <option value="$PROJECT_DIR$/src/FindMedianSortedArrays.java" />
         <option value="$PROJECT_DIR$/src/LongestPalindrome.java" />
         <option value="$PROJECT_DIR$/src/Manacher.java" />
+        <option value="$PROJECT_DIR$/src/Zconvert.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="840" />
@@ -88,8 +67,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,12 +83,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562834483561" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563330662897" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -129,7 +108,7 @@
   </component>
   <component name="RunManager">
     <configuration name="just do it!" type="Application" factoryName="Application">
-      <option name="MAIN_CLASS_NAME" value="Manacher" />
+      <option name="MAIN_CLASS_NAME" value="Zconvert" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,12 +138,18 @@
       <workItem from="1561512464505" duration="13743000" />
       <workItem from="1561598369848" duration="3512000" />
       <workItem from="1561617693879" duration="13000" />
-      <workItem from="1562831260433" duration="3122000" />
+      <workItem from="1562831260433" duration="3690000" />
+      <workItem from="1562837980953" duration="1960000" />
+      <workItem from="1562893406901" duration="8421000" />
+      <workItem from="1563100408944" duration="10000" />
+      <workItem from="1563155095329" duration="1207000" />
+      <workItem from="1563328926288" duration="1686000" />
+      <workItem from="1563330620954" duration="48000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64904000" />
+    <option name="totallyTimeSpent" value="78804000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -176,9 +161,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="840" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="840" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29756796" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25107297" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -187,7 +173,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49499285" visible="true" weight="0.328877" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49499285" weight="0.328877" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49928468" weight="0.39973262" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -198,6 +184,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49713877" weight="0.328877" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50500715" side_tool="true" weight="0.328877" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49785408" weight="0.328877" />
+      <window_info anchor="right" id="Coverage" side_tool="true" weight="0.3297568" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -252,34 +239,59 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/powerOfTwo.java</url>
+          <line>19</line>
+          <properties class="powerOfTwo" method="log">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/AddTwoNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/Manacher.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="765">
+          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/testAddTwoNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/LengthOfLongestSubstring.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/FindMedianSortedArrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/mailaddressProcess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-888">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/powerOfTwo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/mailaddressProcess.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#500#501#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -294,31 +306,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindMedianSortedArrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/LengthOfLongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/LongestPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
+        <state relative-caret-position="1485">
           <caret line="99" column="49" selection-start-line="99" selection-start-column="49" selection-end-line="99" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Manacher.java">
+    <entry file="file://$PROJECT_DIR$/src/AddTwoNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="-2157">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/testAddTwoNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="31" lean-forward="true" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Zconvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
     </entry>
